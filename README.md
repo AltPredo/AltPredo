@@ -41,7 +41,7 @@ Meus principais projetos e trabalhos podem ser encontrados na minha conta princi
     />
   </picture>
 
-  <a href="https://github.com/pedrobellarminocardoso">
+  <a href="https://github.com/AltPredo">
     <picture>
       <source
         srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=github_dark&hide_border=true"
