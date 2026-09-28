@@ -10,12 +10,6 @@ Esta conta serve principalmente como um espaço para explorar diferentes tecnolo
 
 # Principais programas que utilizo
 
-🎮 **Godot**  
-🎮 **GameMaker 2**  
-🧊 **Blender**  
-🎨 **Aseprite**  
-🎬 **Adobe Animate**
-
 <img src="https://skillicons.dev/icons?i=godot,blender" />
 
 ---
