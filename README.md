@@ -1,15 +1,67 @@
-# Um pouco sobre mim:
+# Sobre esta conta
 
-Tenho 18 anos, estou determinado a entrar no mercado de trabalho na área de tecnologia enquanto continuo meus estudos nesse campo. Possuo experiência com Delphi 10, Figma, PHP, HTML e CSS, e estou sempre aberto a aprender novas habilidades. Tenho um interesse particular na área de testes e pretendo concentrar meus esforços nela no futuro.
+Esta é minha conta alternativa no GitHub, onde publico projetos, experimentos e outras coisas que desenvolvo além dos projetos relacionados à faculdade e ao trabalho.
 
-# Experiência em:
+Aqui você pode encontrar projetos pessoais, estudos, testes com novas tecnologias, exercícios e ideias que estou desenvolvendo por conta própria.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,wordpress,figma&theme=light)](https://skillicons.dev)
+Esta conta serve principalmente como um espaço para explorar diferentes tecnologias, colocar ideias em prática e compartilhar projetos que não necessariamente fazem parte do meu portfólio principal.
 
-# Contato:
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=SEUNUMERODOTELEFONE) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_bellarmino_cardoso/?next=%2F)
+# Principais programas que utilizo
 
-# Status
+🎮 **Godot**  
+🎮 **GameMaker 2**  
+🧊 **Blender**  
+🎨 **Aseprite**  
+🎬 **Adobe Animate**
 
-![PedroBellarmino GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBellarmino&show_icons=true&theme=radical)
+<img src="https://skillicons.dev/icons?i=godot,blender" />
+
+---
+
+## GitHub Principal
+
+Meus principais projetos e trabalhos podem ser encontrados na minha conta principal:
+
+**[PedroBellarminoCardoso](https://github.com/PedroBellarminoCardoso)**
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      height="185em"
+      src="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&hide_border=true"
+      alt="GitHub Status"
+    />
+  </picture>
+
+  <a href="https://github.com/pedrobellarminocardoso">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=github_dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=default&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        height="185em"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&hide_border=true"
+        alt="Linguagens mais usadas"
+      />
+    </picture>
+  </a>
+</p>
