@@ -14,6 +14,7 @@ Esta conta serve principalmente como um espaço para explorar diferentes tecnolo
   <img src="https://cdn.simpleicons.org/gamemaker" width="50" height="50" alt="GameMaker"/>
   <img src="https://cdn.simpleicons.org/blender" width="50" height="50" alt="Blender"/>
   <img src="https://cdn.simpleicons.org/aseprite" width="50" height="50" alt="Aseprite"/>
+  <img src="https://simpleicons.org/?q=gofot&modal=icon" width="50" height="50" alt="Godot"/>
 </p>
 
 🎮 **Godot** · 🎮 **GameMaker 2** · 🧊 **Blender** · 🎨 **Aseprite** · 🎬 **Adobe Animate**
