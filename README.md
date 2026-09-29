@@ -10,7 +10,13 @@ Esta conta serve principalmente como um espaço para explorar diferentes tecnolo
 
 # Principais programas que utilizo
 
-<img src="https://skillicons.dev/icons?i=godot,blender" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/godot" width="50" height="50" alt="Godot"/>
+  <img src="https://cdn.simpleicons.org/gamemaker" width="50" height="50" alt="GameMaker"/>
+  <img src="https://cdn.simpleicons.org/blender" width="50" height="50" alt="Blender"/>
+  <img src="https://cdn.simpleicons.org/aseprite" width="50" height="50" alt="Aseprite"/>
+  <img src="https://cdn.simpleicons.org/adobeanimate" width="50" height="50" alt="Adobe Animate"/>
+</p>
 
 ---
 
