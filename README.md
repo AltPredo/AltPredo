@@ -1,18 +1,16 @@
-# Sobre esta conta
+Conta secundaria que uso para postar e testar coisas mais diferentes do que geralmente postaria em meu Github principal
 
-Esta é minha conta alternativa no GitHub, onde publico projetos, experimentos e outras coisas que desenvolvo além dos projetos relacionados à faculdade e ao trabalho.
-
-Aqui você pode encontrar projetos pessoais, estudos, testes com novas tecnologias, exercícios e ideias que estou desenvolvendo por conta própria.
-
-Esta conta serve principalmente como um espaço para explorar diferentes tecnologias, colocar ideias em prática e compartilhar projetos que não necessariamente fazem parte do meu portfólio principal.
 
 ---
 
 # Principais programas que utilizo
 
 <p align="left">
+   <img src="https://cdn.simpleicons.org/godotengine" width="50" height="50" alt="Godot"/>
+  <img src="https://cdn.simpleicons.org/gamemaker" width="50" height="50" alt="GameMaker"/>
   <img src="https://cdn.simpleicons.org/blender" width="50" height="50" alt="Blender"/>
   <img src="https://cdn.simpleicons.org/aseprite" width="50" height="50" alt="Aseprite"/>
+  
 </p>
 
 ---
